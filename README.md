@@ -2,7 +2,9 @@
 
 Hello! My name is Benjamin Freund. Welcome to my portfolio!
 
-I'm a student at Yeshiva University's Katz School of Science and Health, where I'm studying for my MS in Data Analytics and Visualization. I received a BS in business intelligence and marketing analytics, an AA in Jewish Studies, and minors in marketing and psychology from Yeshiva University's Sy Syms School of Business.
+I'm an analytics manager at GPARENCY.
+
+I received a MS in data analytics and visualization, a BS in business intelligence and marketing analytics, an AA in Jewish Studies, and minors in marketing and psychology, all from Yeshiva University.
 
 I'm dedicated and hard-working, and I see a job to its completion. I know Python, R, PostgreSQL, SQLite, MySQL, Tableau, Microsoft Office, Google Suite, and Minitab Express. I am a fast and eager learner and I'm passionate about what I do.
 
