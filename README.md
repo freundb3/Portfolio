@@ -2,7 +2,7 @@
 
 Hello! My name is Benjamin Freund. Welcome to my portfolio!
 
-I'm an analytics manager at GPARENCY.
+I'm a data analyst at Covetrus.
 
 I received a MS in data analytics and visualization, a BS in business intelligence and marketing analytics, an AA in Jewish Studies, and minors in marketing and psychology, all from Yeshiva University.
 
